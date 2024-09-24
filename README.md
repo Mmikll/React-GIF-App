@@ -2,7 +2,7 @@
 
 This is a simple example of a gif finder
 
-Tegnologies used : 
+Tecnologies used in the Proyect : 
     -JS
     -React
     -Yarn
