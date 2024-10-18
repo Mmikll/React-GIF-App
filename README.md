@@ -9,3 +9,4 @@ Tecnologies used in the Proyect :
     -Jest
     -React Testing Library
     -Git
+Here's The Deploy Link: https://sparkly-pithivier-e7d43a.netlify.app
